@@ -1,5 +1,20 @@
 # 1 - `Setup le bot`
 
+** **
+- Ouvrez le fichier .env
+- Mettez le token du bot et l'id de l'owner
+- lancez le bot
+** **
+- Ouvrez le fichier .env
+![image](https://user-images.githubusercontent.com/99873347/170371348-6e2ae044-9566-4cfe-8614-d8470ad4577b.png)
+
+- Remplissez les informations
+![image](https://user-images.githubusercontent.com/99873347/170371508-40bf5260-12a3-43b3-883a-795adae36dc6.png)
+
+- Lancez le bot
+![image](https://user-images.githubusercontent.com/99873347/170372138-aa6b0e98-d0ac-4ef2-8605-315317d996d6.png)
+
+
 # 2 - `Création du token d'un bot`
 
 - Vous devez vous rendre sur le [Discord Developer Portal](https://discord.com/developers/applications)
